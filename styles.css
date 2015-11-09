@@ -1,0 +1,124 @@
+head{
+	display:none;
+}
+#content{
+	background-color: white;
+	text-align:center;
+	position:fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size:small;
+	display:block;
+	font-family: arial, sans-serif;
+	color:#222;
+	
+
+}
+body{
+	overflow-x:hidden;
+}
+red{
+	color:red;
+}
+#google{
+	height:auto;
+	width:275px;
+}
+#search{
+	padding:10px 200px 10px 200px;
+	border:1px #eeeee;
+	
+}
+button{
+	width: 125px;
+	height: 30px;
+	margin: 5px;
+}
+#ab{
+border-radius: 50%;
+height:20px;
+width:auto;
+}
+#ac{
+	height:20px;
+width:auto;
+	
+}
+#aa{
+	height:20px;
+width:auto;
+}
+.footer
+        {
+            width:100%;
+            background-color: #eeeeee;
+			position:absolute;  bottom:0px;
+            border-top-style: solid;
+			border-top-color: #eeeeee;
+            border-top-width: 1px;
+            color: white;
+            font-size: 77%;
+            padding-top:.3em;
+            padding-bottom:.3em;
+        }
+#tr{
+	display:inline;
+	position:absolute; top:5px; right:10px;
+	list-style-type: none;
+	padding-right: 20px;
+	padding: 0px 5px 0px 10px;
+	font-family:arial, sans-serif;
+	font-size:small;
+
+}
+#tr li{
+	display:inline;
+	position:float; top:20px; right:10px;
+	list-style-type: none;
+	padding-right: 20px;
+	padding: 0px 5px 0px 10px;
+	font-family:arial, sans-serif;
+	font-size:small;
+
+}
+#bl{
+	display:inline;
+	padding: 0px 13px 0px 13px;
+	position:absolute; left:5px; bottom:5px;
+	font-family:arial, sans-serif;
+	font-size:small;
+
+}
+#bl li{
+	display:inline;
+	padding: 0px 13px 0px 13px;
+	position:float; left:5px; bottom:5px;
+	font-size:small;
+	
+}
+#br{
+	display:inline;
+	padding: 0px 13px 0px 13px;
+	position:absolute; right:5px; bottom:5px;
+	font-family:arial, sans-serif;
+	font-size:small;
+	
+}
+#br li{
+	display:inline;
+	padding: 0px 13px 0px 13px;
+	position:float; right:5px; bottom:5px;
+	font-family:arial, sans-serif;
+font-size:small;}
+	
+	a:link {color: #5a5a5a; text-decoration: none; }
+	a:active {color: #5a5a5a; text-decoration: underline;}
+	a:hover{color: #5a5a5a; text-decoration: underline;}
+
+header, footer {
+    height: 40px;
+}
+#link{
+	color:blue;
+}
